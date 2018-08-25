@@ -55,7 +55,7 @@ After training the model use bot.py to use it.
 NOTE : To train model on google colab GPU, upload the file `.ipynb` file and `preprocess.p` on your google drive. Run .ipynb file to train.
 
 
-Download variables trained for 260 epochs from [here](https://drive.google.com/open?id=1ne6GOcvZ0gxPD2jV0nOtWRif2b8Dyw9o)
+Download variables trained for 260 epochs from [here](https://drive.google.com/open?id=1ne6GOcvZ0gxPD2jV0nOtWRif2b8Dyw9o).
 
 ## *************************************************************************************
 
